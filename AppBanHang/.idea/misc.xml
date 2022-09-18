@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/LapTrinhAndroid_TuHoc/AppBanHang/app/src/main/res/drawable/boder.xml" value="0.25833333333333336" />
+        <entry key="..\:/LapTrinhAndroid_TuHoc/AppBanHang/app/src/main/res/drawable/nen_layout.xml" value="0.25833333333333336" />
+        <entry key="..\:/LapTrinhAndroid_TuHoc/AppBanHang/app/src/main/res/drawable/spinner.xml" value="0.25833333333333336" />
+        <entry key="..\:/LapTrinhAndroid_TuHoc/AppBanHang/app/src/main/res/layout/activity_chi_tiet_san_pham.xml" value="0.2421875" />
+        <entry key="..\:/LapTrinhAndroid_TuHoc/AppBanHang/app/src/main/res/layout/activity_dien_thoai.xml" value="0.2421875" />
+        <entry key="..\:/LapTrinhAndroid_TuHoc/AppBanHang/app/src/main/res/layout/activity_gio_hang.xml" value="0.2421875" />
+        <entry key="..\:/LapTrinhAndroid_TuHoc/AppBanHang/app/src/main/res/layout/activity_laptop.xml" value="0.2421875" />
+        <entry key="..\:/LapTrinhAndroid_TuHoc/AppBanHang/app/src/main/res/layout/activity_lien_he.xml" value="0.2421875" />
+        <entry key="..\:/LapTrinhAndroid_TuHoc/AppBanHang/app/src/main/res/layout/activity_main.xml" value="0.2421875" />
+        <entry key="..\:/LapTrinhAndroid_TuHoc/AppBanHang/app/src/main/res/layout/activity_thong_tin.xml" value="0.2421875" />
+        <entry key="..\:/LapTrinhAndroid_TuHoc/AppBanHang/app/src/main/res/layout/activity_thongtinkhachhang.xml" value="0.2421875" />
+        <entry key="..\:/LapTrinhAndroid_TuHoc/AppBanHang/app/src/main/res/layout/dong_dien_thoai.xml" value="0.2421875" />
+        <entry key="..\:/LapTrinhAndroid_TuHoc/AppBanHang/app/src/main/res/layout/dong_gio_hang.xml" value="0.2421875" />
+        <entry key="..\:/LapTrinhAndroid_TuHoc/AppBanHang/app/src/main/res/layout/dong_lap_top.xml" value="0.2421875" />
+        <entry key="..\:/LapTrinhAndroid_TuHoc/AppBanHang/app/src/main/res/layout/dong_list_view.xml" value="0.2421875" />
+        <entry key="..\:/LapTrinhAndroid_TuHoc/AppBanHang/app/src/main/res/layout/dong_sanphammoinhat.xml" value="0.264" />
+        <entry key="..\:/LapTrinhAndroid_TuHoc/AppBanHang/app/src/main/res/layout/progressbar.xml" value="0.2421875" />
+        <entry key="..\:/LapTrinhAndroid_TuHoc/AppBanHang/app/src/main/res/menu/menu.xml" value="0.2421875" />
+        <entry key="..\:/LapTrinhAndroid_TuHoc/AppBanHang/app/src/main/res/xml/network_security_config.xml" value="0.2421875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
