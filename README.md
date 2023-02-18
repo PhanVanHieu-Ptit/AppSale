@@ -28,4 +28,4 @@
 <a href="https://github.com/PhanVanHieu-Ptit/AppSale/blob/main/thongTin.png"><img src="https://github.com/PhanVanHieu-Ptit/AppSale/blob/main/thongTin.png">  
   
 ### Thông tin khách hàng
-<a hrefhttps://github.com/PhanVanHieu-Ptit/AppSale/blob/main/thongTinKH.png"><img src="https://github.com/PhanVanHieu-Ptit/AppSale/blob/main/thongTinKH.png">  
+<a href="https://github.com/PhanVanHieu-Ptit/AppSale/blob/main/thongTinKH.png"><img src="https://github.com/PhanVanHieu-Ptit/AppSale/blob/main/thongTinKH.png">  
